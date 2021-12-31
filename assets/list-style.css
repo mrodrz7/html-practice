@@ -1,0 +1,38 @@
+#shopping {
+  background-color: rgb(165, 77, 77);
+}
+
+#todo {
+  background-color: rgb(90, 90, 138);
+}
+
+#places {
+  background-color: rgb(77, 139, 77);
+}
+
+#videoGames {
+  background-color: rgb(187, 144, 65);
+}
+
+body {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+li,
+h3,
+h1 {
+  margin: auto;
+  width: 50%;
+}
+
+h1 {
+  border-bottom: 3px solid black;
+}
+
+h3,
+h1 {
+  text-align: center;
+}
